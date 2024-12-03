@@ -1,0 +1,4 @@
+@EndUserText.label: 'Bookings Service Definition'
+define service Z_Bookings_Service {
+  expose Z_VE_ANA_PROJVIEW_Q;
+}
